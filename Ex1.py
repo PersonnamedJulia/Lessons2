@@ -1,0 +1,10 @@
+my_list = [2, 2.3, complex(7), True, 'comunity', [1, 2, 3]]
+print('список')
+print(my_list)
+print('типы данных каждого элемента')
+print(my_list[0], '-',type(my_list[0]))
+print(my_list[1], '-',type(my_list[1]))
+print(my_list[2], '-',type(my_list[2]))
+print(my_list[3], '-',type(my_list[3]))
+print(my_list[4], '-',type(my_list[4]))
+print(my_list[5], '-',type(my_list[5]))
